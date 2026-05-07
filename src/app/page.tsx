@@ -249,9 +249,15 @@ Have a memorable birthday anniversary and a wonderful year ahead.`,
     {
       name: "Another Memory 📸",
       message:
-        `Heyyyyy Joan, idk if you remember me but yh. just wanted to wish you a happy birthday I hope you have a great day ,`,
-      image: "/assets/Ekene.png",
-      side: "💛 - Ekene (from Lagoon) 💛",
+        `Dear Joanne,
+Happy birthday to a special girl on her special day. I know it’s been a long while since we communicated, but I want to tell you that you always have a special place in my heart. You are truly one of the greatest friends I have. I don’t know if you know this but, I had always admired you and you were always like an older sister figure to me. When we were going to school together I always felt secure around you and I was happy that I had someone to look up to from time to time. I had moments when I felt small in the past but  I don’t know how you did it, but sometimes you just gave me a rush of confidence. I know we had our ups and downs and I know some of the things I’m saying you may not remember or even realize that these events happened. But all I want to say is that you have truly been a person with a special place through the beginning of my life’s journey. 
+
+When I got the notice to write a birthday letter to you I was honestly stumped at first, but I stopped to think “who is Joanne from my memory” - cheerful, loving, cool, kind and definitely funny person, although she has her moments (she’ s insulting one senior, reverend sister or one setmate because of something and makes it so dramatic) I know she’s still reliable. I was asked to pour my heart out and I hope I did. Happy birthday once again and I wish you happiness and wealth above all - good health as well, and let your dreams and desires come true. Enjoy your day and just remember that there’s at least 1 person out there across the oceans that thinks you are special and deserve to be loved and celebrated.
+
+Bye- bye.
+`,
+      image: "/assets/Maryanne.png",
+      side: "💛 Your friend Mary-Anne. 💛",
     },
 
     {
