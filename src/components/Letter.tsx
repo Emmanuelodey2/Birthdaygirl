@@ -2,7 +2,14 @@
 import React, { useState } from 'react'
 import BirthdayLetter from './notes';
 
-const Letter =({ name, message,image,side }) => {
+type LetterProps = {
+  name: string;
+  message: string;
+  image: string;
+  side?: string;
+};
+
+const Letter =({ name, message, image, side }: LetterProps) => {
     const [isFlapOpen, setIsFlapOpen] = useState(false);
     const [isLetterOut, setIsLetterOut] = useState(false);
 
