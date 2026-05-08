@@ -17,7 +17,7 @@ const BirthdayLetter = ({
       shadow-2xl
       overflow-hidden
 
-      w-[320px]
+      w-[380px]
       h-[420px]
 
       sm:w-[420px]
@@ -107,7 +107,7 @@ const BirthdayLetter = ({
       </div>
 
       {/* TEDDY */}
-      <div className="absolute bottom-0 left-0 sm:-left-4 w-16 sm:w-24 z-20">
+      <div className="absolute bottom-0 left-0 sm:-left-4 w-10 sm:w-24 z-20">
         <Image
           src="/assets/teddybear.png"
           alt="teddy"
