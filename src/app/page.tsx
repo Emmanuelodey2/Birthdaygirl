@@ -241,9 +241,11 @@ Have a memorable birthday anniversary and a wonderful year ahead.`,
     {
       name: "To Someone Precious 🌷",
       message:
-        "Hiiii joannneeee Happy birthday sweet girll💕💕Hope you have a blessed and beautiful day ",
+        `Happy birthday joann, this is from the best roommate you've ever had. Omo i don't really have much so say sha, but i wish you nothing but the best in this life, I pray the God will continue to bless you, keep you and make his grace shine over your life. I pray as you grow, with or without me being there that you would live in answered prayers. You have been the best roommate and friend from the time i've known you and i'm honestly grateful to have met you. Happy birthday once again from your favourite roommate.
+
+`,
       image: "/assets/joanne3.png",
-      side: "💋 Muahhh 💋 ~~~Laura",
+      side: "💋 Muahhh 💋 ~~~ore",
     },
 
     {
