@@ -280,7 +280,7 @@ You’re an amazing person Joanne, a beautiful person on the inside and most def
 I love spending time with you, even though it’s not often even when you came to stay w me on my birthday I was like awww she loves me too😭 sha I love you a lot babygirl, you deserve everything good God plants on this earth and so much more !
 I pray God blesses you abundantly, I pray he rewards every single thing you put effort in, I pray you will never know sorrow or sadness or pain and in all areas of life shall you prosper! and I can’t wait for us to become Doctors !
 Girll I love you and HAPPY BIRTHDAY Jo baby❤️🎂`,
-      image: "/assets/Ibukun.png",
+      image: "/assets/ibukun.png",
       side: "🌼 Ibukun 🌼",
     },
 
